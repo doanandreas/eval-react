@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-expressions */
 import * as Y from "yjs";
 import { WebrtcProvider } from "y-webrtc";
 
