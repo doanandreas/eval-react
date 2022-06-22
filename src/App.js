@@ -50,7 +50,7 @@ const App = () => {
     <div className="App">
       <header className="App-header">
         <p>If you see this page, the Yjs WebRTC code is working correctly.</p>
-        <p>ENV: {process.env.NODE_ENV}</p>
+        <p>Peer ID: {process.env.REACT_APP_PEER_ID}</p>
       </header>
     </div>
   );
